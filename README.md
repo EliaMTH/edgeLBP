@@ -1,9 +1,9 @@
 File list: 
 
-- docs_and_readmes
-					|_edgeLBP_cite_me.bib;
-					|_output_data_readme.txt
-					|_sphere_edge_inters.pdf
+- docs_and_readmes:
+	-edgeLBP_cite_me.bib;
+	-output_data_readme.txt
+	-sphere_edge_inters.pdf
 - edgeLBP.m;
 - edgeLBPp.m;
 - README.txt; 
